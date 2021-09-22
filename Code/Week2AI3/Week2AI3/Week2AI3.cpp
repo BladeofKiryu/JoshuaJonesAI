@@ -10,7 +10,7 @@ int main() {
     cout << "Enter a string to delete vowels\n";
     cin >> s;
     for (c = 0; s[c] != '\0'; c++) {
-        // check for If not a vowel
+      
         if (vowelChk(s[c]) == 0) {
             t[d] = s[c];
             d++;
