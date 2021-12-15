@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TTT",
+			"Path": "D:\\Projects\\Unreal Projects\\TTT\\Source\\TicTacToe\\TTT\\Source\\TTT.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TTTEditor",
+			"Path": "D:\\Projects\\Unreal Projects\\TTT\\Source\\TicTacToe\\TTT\\Source\\TTTEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
